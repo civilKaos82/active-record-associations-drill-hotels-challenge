@@ -37,12 +37,12 @@ When our associations have been written, we'll be able to answer the following q
 
 ## Releases
 
-### Pre-release: Setup
-The necessary models and migrations have been provided for us.  We will need to set up the database though.  Lets bundle to make sure that the necessary gems are installed and then create and migrate our database.
+### Pre-release: Setup the Database
+Before working through this challenge we need to setup the database.  The necessary migrations have been provided for us; don't edit them.  Let's bundle to make sure that the necessary gems are installed and then create and migrate our database.
 
 
 ### Release 0: Declare the Associations
-Tests for each model's associations have been written to provide feedback on the associations that we write (see the files in `spec/models/`).  When all of the tests pass, our associations are written properly.
+An empty class is provided for each model.  We are going to declare associations in these classes.  Tests for each model's associations have been written to provide feedback on the associations that we write (see the files in `spec/models/`).  When all of the tests pass, our associations are written properly.
 
 In order to write the desired associations, we'll need to be familiar with declaring different types of associations:
 
