@@ -1,2 +1,2 @@
-class Booking < ActiveRecord::Base
+class Booking < ApplicationRecord
 end

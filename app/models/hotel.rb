@@ -1,2 +1,2 @@
-class Hotel < ActiveRecord::Base
+class Hotel < ApplicationRecord
 end
